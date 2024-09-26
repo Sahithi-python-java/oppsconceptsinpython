@@ -1,1 +1,8 @@
 https://chatgpt.com/share/dd3743be-937c-4367-889b-cc94436772f8
+https://chatgpt.com/c/66f212f8-8ecc-800e-9565-5d4764e5ac67  Data Encapsulation
+https://chatgpt.com/c/66ea3347-1400-800e-a515-4a199469c1c7 Inheritance
+https://chatgpt.com/c/66f20bda-dee4-800e-9c62-88e18f838c2f Polymorphism
+https://chatgpt.com/c/66f21374-396c-800e-9c7c-023bf4a4a346 Data Abstraction
+https://chatgpt.com/c/66f29ad8-37c0-800e-95ca-0e04acc57ce8 Exception Handling
+https://chatgpt.com/c/66f336d1-da80-800e-aa1d-1f3af30662f6 Packages, Modules & PIP
+https://chatgpt.com/c/66f33fbb-8598-800e-9a05-96c07f688f97 Abstraction Abstraction
